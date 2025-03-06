@@ -34,3 +34,8 @@ Após baixar o projeto você pode abrir no VsCode
 - `HTML`
 - `Funções`
 - `Lógica de Programação`
+
+# Autores
+[<sub>Luiz Eduardo</sub>](https://github.com/LuizDev-make)
+
+
